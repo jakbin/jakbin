@@ -1,4 +1,4 @@
-### Hi there, I am Druv Jagdish 👋
+### Hi there, I am Druv Jagdish <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
 ## I'm a Ethical Hacker, Programmer and Web Developer
