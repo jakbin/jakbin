@@ -8,6 +8,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
+[![Jak's github stats](https://github-readme-stats.vercel.app/api?username=jak3456)](https://github.com/jak3456/github-readme-stats)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
