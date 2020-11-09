@@ -10,11 +10,11 @@
 
 
  <!---[![Jak's github stats](https://github-readme-stats.vercel.app/api?username=jak3456)](https://github.com/jak3456/github-readme-stats)-->
-![Jak's github stats](https://github-readme-stats.vercel.app/api?username=jak3456&show_icons=true&theme=radical)
+[![Jak's github stats](https://github-readme-stats.vercel.app/api?username=jak3456&show_icons=true&theme=radical)
 
 
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jak3456&layout=compact)](https://github.com/jak3456/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jak3456&layout=compact)](https://github.com/jak3456/github-readme-stats)
 
 ### Connect with me:
 
