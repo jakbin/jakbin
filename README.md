@@ -8,9 +8,9 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
  <!---[![Jak's github stats](https://github-readme-stats.vercel.app/api?username=jak3456)](https://github.com/jak3456/github-readme-stats)-->
-![Jak's github stats](https://github-readme-stats.vercel.app/api?username=jak3456&show_icons=true&theme=radical)
+![Jak's github stats](https://github-readme-stats.vercel.app/api?username=jakbin&show_icons=true&theme=radical)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jak3456)](https://github.com/jak3456/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakbin)](https://github.com/jakbin/github-readme-stats)
 
 
 ### Connect with me:
