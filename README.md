@@ -19,18 +19,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakbin)](https://github.com/jakbin/github-readme-stats)
 
 
-### Connect with me:
+## Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-
-[instagram]: https://instagram.com/anubhavkrishna1
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
-
-[twitter]: https://twitter.com/AnubhavKrishn17
+[![Twitter](https://img.shields.io/badge/@red_devil111-%23F7DF1C?style=flat-square&logo=telegram&logoColor=white)](https://t.me/red_devil111)
 
