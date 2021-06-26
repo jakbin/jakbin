@@ -20,6 +20,11 @@
 
 <br />
 
-
 [instagram]: https://instagram.com/anubhavkrishna1
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][twitter]
+
+<br />
+
+[twitter]: https://instagram.com/anubhavkrishna1
 
