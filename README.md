@@ -26,5 +26,5 @@
 
 <br />
 
-[twitter]: https://instagram.com/anubhavkrishna1
+[twitter]: https://twitter.com/AnubhavKrishna17
 
