@@ -11,7 +11,7 @@
 ## Programming Languages:
 
 ![Python](https://img.shields.io/badge/Python-ea2d2f?style=flat-square&logo=Python&logoColor=ffffff)
-
+![Shell](https://img.shields.io/badge/Shell-%23F7DF1C?style=flat-square&logo=Shell&logoColor=000000)
 
 <!---[![Jak's github stats](https://github-readme-stats.vercel.app/api?username=jak3456)](https://github.com/jak3456/github-readme-stats)-->
 ![Jak's github stats](https://github-readme-stats.vercel.app/api?username=jakbin&show_icons=true&theme=radical)
