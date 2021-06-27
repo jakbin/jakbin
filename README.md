@@ -12,6 +12,7 @@
 
 ![Python](https://img.shields.io/badge/Python-ea2d2f?style=flat-square&logo=Python&logoColor=ffffff)
 ![Shell](https://img.shields.io/badge/Shell-%23F7DF1C?style=flat-square&logo=Shell&logoColor=000000)
+![Jquery](https://img.shields.io/badge/Jquery-ea2d2f?style=flat-square&logo=jquery&logoColor=ffffff)
 
 ## Tools and Technologies:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
