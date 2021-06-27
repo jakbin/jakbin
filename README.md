@@ -19,6 +19,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=Markdown&logoColor=white)
 
+## My GitHub Stats:
 <!---[![Jak's github stats](https://github-readme-stats.vercel.app/api?username=jak3456)](https://github.com/jak3456/github-readme-stats)-->
 ![Jak's github stats](https://github-readme-stats.vercel.app/api?username=jakbin&show_icons=true&theme=radical)
 <br>
