@@ -11,6 +11,7 @@
 ## Programming Languages:
 
 ![Python](https://img.shields.io/badge/Python-ea2d2f?style=flat-square&logo=Python&logoColor=ffffff)
+![Php](https://img.shields.io/badge/Php-27338e?style=flat-square&logo=php&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-%23F7DF1C?style=flat-square&logo=Shell&logoColor=000000)
 ![Jquery](https://img.shields.io/badge/Jquery-007ACC?style=flat-square&logo=jquery&logoColor=ffffff)
 
