@@ -6,7 +6,7 @@
 - 🔭 I’m currently working with VS Code 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ## Programming Languages:
 
@@ -18,6 +18,7 @@
 ## Tools and Technologies:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-443a86?style=flat-square&logo=Heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=Markdown&logoColor=white)
 
