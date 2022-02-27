@@ -3,7 +3,7 @@
 
 ## I'm a Ethical Hacker, Programmer and Web Developer
 
-- 🔭 I’m currently working with VS Code 
+- 🔭 I’m currently working with Sublime Text
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
