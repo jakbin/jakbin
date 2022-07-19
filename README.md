@@ -8,6 +8,10 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
+## Profile Views
+
+![Profile views](https://gpvc.arturio.dev/jakbin)
+
 ## Programming Languages:
 
 ![Python](https://img.shields.io/badge/Python-ea2d2f?style=flat-square&logo=Python&logoColor=ffffff)
