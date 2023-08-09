@@ -1,16 +1,13 @@
 ### Hi there, I am Dhruv Jagdish <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
-## I'm a Ethical Hacker, Programmer and Web Developer
+## I'm a Python Programmer.
 
-- 🔭 I’m currently working with Sublime Text
+- 🔭 I’m currently working with Sublime Text and VSCode
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 
-## Profile Views
-
-![Profile views](https://gpvc.arturio.dev/jakbin)
 
 ## Programming Languages:
 
@@ -36,5 +33,5 @@
 ## Connect with me:
 
 
-[![Twitter](https://img.shields.io/badge/@red_devil111-%23F7DF1C?style=flat-square&logo=telegram&logoColor=white)](https://t.me/red_devil111)
+[![Telegram](https://img.shields.io/badge/@red_devil111-%23F7DF1C?style=flat-square&logo=telegram&logoColor=white)](https://t.me/red_devil111)
 
