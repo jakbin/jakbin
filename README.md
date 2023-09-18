@@ -1,5 +1,6 @@
 ### Hi there, I am Dhruv Jagdish <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakbin&label=Profile%20views&color=0e75b6&style=flat" alt="hanicraft" /> </p>
 
 ## I'm a Python Programmer.
 
